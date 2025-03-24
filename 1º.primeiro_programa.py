@@ -1,0 +1,5 @@
+print("OLÁ, MUNDO")
+nome = input("QUAL É O SEU NOME?")
+nome = input("nome do funcionário")
+#salário =  float(input("qual o salario"))
+print(f"o funcionario")
