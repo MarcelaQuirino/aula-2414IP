@@ -1,0 +1,7 @@
+real dinheiro, dolar, conversao
+escreva("Quanto dinheiro você tem em sua conta?")
+leia(dinheiro)
+dolar = 5.16
+conversao = dinheiro / dolar
+escreva("O valor de R$" + dinheiro + " convertido para dólares é igual a $" + conversao)
+		
